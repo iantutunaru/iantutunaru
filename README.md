@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @iantutunaru
+- 👀 I’m interested in game development, particularly in using Unity to create immersive and engaging experiences. My passion lies in innovating within the gaming industry, where I can bring fresh ideas and robust technical skills to develop captivating games.
+- 🌱 I’m currently learning advanced techniques in Unity, exploring new ways to enhance game mechanics and user engagement. I'm also keen on improving my skills in C#, Java, and diving deeper into the latest game development trends and technologies.
+- 💞️ I’m looking to collaborate on Unity game projects, especially those focused on multiplayer or co-op gameplay. I'm excited to join forces with like-minded developers who are passionate about creating fun, challenging, and innovative games.
+- 📫 How to reach me: The best way to connect with me is via email at [iantutunaru@gmail.com](mailto:iantutunaru@gmail.com) or through my [LinkedIn profile](https://www.linkedin.com/in/ianis-tutunaru/).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Aside from my love for game development, I've significantly contributed to enhancing business operations and growing closed deals in the real estate sector, showcasing my versatility and ability to drive success across different fields.
